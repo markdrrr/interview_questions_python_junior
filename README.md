@@ -228,7 +228,7 @@ git init
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 ### 14. Что такое виртуальное окружение
-Виртуальная среда — это инструмент для поддержки отдельного пространства для проекта с его зависимостями и библиотеками в одном месте.
+Виртуальное окружение (virtualenv) — это инструмент для создания отдельного пространства для проекта с его зависимостями и библиотеками в директории проекта.
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 ### 15. Как установить виртуальное окружение
@@ -245,12 +245,14 @@ python -m venv namevenv
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 ### 17. Cрезы или слайсы в python
-`item[START:STOP:STEP]` 
-Функция Python slice() возвращает нарезанный объект из набора индексов ввода, указанного пользователем в соответствии с переданными ему аргументами.
+```
+item[START:STOP:STEP]
+```
+Функция Python slice() возвращает нарезанный объект из набора индексов ввода, указанного пользователем в соответствии с переданными ему аргументами. Объект должен быть iterable.
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 ### 18. Что такое итерация
-Переход к следующему объекту в последовательности.
+Переход к следующему объекту в коллекции, например список, кортеж и т.д. Сам по себе объект коллекции должен быть itarable.
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 ### 19. Какие циклы есть в python
@@ -258,7 +260,7 @@ python -m venv namevenv
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 ### 20. Чем отличается while от for
-**For** используется только тогда, когда необходимо совершить перебор элементов заранее известное число раз. Цикл **while** также используется для повторения частей кода, но вместо зацикливания на **n** количество раз, он выполняет работу до тех пор, пока не достигнет определенного условия
+**For** используется только тогда, когда необходимо совершить перебор элементов заранее известное число раз. Цикл **while** также используется для повторения частей кода, но вместо зацикливания на **n** количество раз, он выполняет работу до тех пор, пока не достигнет определенного условия. Выйти из цикла в любой момент можно используя ключевое слово `break`, а перейти на следующую итерацию цикла можно используя слово `continue`.
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 ### 21. Каким образом реализовано ветвление в python
@@ -282,17 +284,19 @@ python -m venv namevenv
 Параметры функции аннотируются так же как переменные, а возвращаемое значение указывается после стрелки `->` и до завершающего двоеточия. Например
 `def indent_right(s: str, width: int) -> str:`.
 
+**Важно**: аннотация типов не есть то же самое, что статическая типизация.
+
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 ### 25. Строка это последовательность или нет
 Да.
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
-### 26. Что такое Pep
-Руководство по написанию кода на Python.
+### 26. Что такое PEP
+PEP - Python Enhancement Proposals - база всех предложений как улучшить Python и что изменить. Например PEP8 - это общепринятое руководство по написанию кода на Python.
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 ### 27. Что такое фунция range
-Функция `range()` создает объект, который внутри себя содержит итератор, выдающий элементы из диапазона, определяемого аргументами функции range(старт, стоп, шаг).
+Функция `range()` возвращает объект с интерфейсом итератора, выдающий элементы из диапазона, определяемого аргументами функции range(старт, стоп, шаг), при этом не храня все элементы в памяти.
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 ### 28. Что делает enumerate
@@ -314,7 +318,7 @@ python -m venv namevenv
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 ### 30. Что в python не является объектом
-В python всё является объектом.
+В python всё является объектом, кроме ключевых слов: in, is, if, while, и т.д.
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 ### 31. Название переменных
