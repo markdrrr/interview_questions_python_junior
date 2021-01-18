@@ -1,8 +1,8 @@
 # Вопросы для собеседования Python Junior
 
-1. Виды типизации
-2. Типизация python
-3. Что такое переменная
+- [1. Виды типизации](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#1.-Виды-типизации)
+- [2. Типизация python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md###2.-Типизация-python)
+- [3. Что такое переменная](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md##3.-Что-такое-переменная)
 4. Числа в python
 5. Строки в python
 6. Списки и кортежи в python
@@ -86,3 +86,59 @@
 84. Как производится отладка программы на Python
 85. Что такое GIL
 86. Статусы ответов HTTP
+
+
+### 1. Виды типизации
+- Статическая - типы устанавливаются на этапе компиляции, динамическая - в рантайме.
+- Сильная - отсутствие автоматических кастов в другой тип (неявных преборазований). Слабая - наличие таковых.
+- Явная - указываем типы везде ручками. Неявная - компилятор/интерпретатор занимается этим сам
+
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+### 2. Типизация python
+Динамическая сильная неявная
+
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+### 3. Что такое переменная
+Переменная Python — это идентификатор для ссылки на значение в программе. Переменная содержит место в памяти объекта.
+
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+### 4. Числа в python
+•	int - целые числа.
+•	float - вещественные или действительные числа(числа с плавающей точкой).
+•	complex - комплексные числа.
+•	decimal - десятичные дроби.
+
+
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+### 5. Строки в python
+Cтрока – это упорядоченная последовательность символов, которая предназначена для хранения информации в виде простого текста
+
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+### 6. Списки и кортежи в python
+Списки Python схожи с массивами в других языках. Кортеж похож на список, но вы создаете его с круглыми скобками, вместо квадратных. Вы также можете использовать встроенный инструмент для создания кортежей. Разница в том, что кортеж неизменный, в то время как список может меняться.
+
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+### 7. Cловарь в python
+Словари в Python - неупорядоченные коллекции произвольных объектов с доступом по ключу.
+
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+### 8. Какие типы данных относятся к структурам данных
+- Массивы
+- Стеки
+- Очереди
+- Связанные списки
+- Графы
+- Деревья
+- Префиксные деревья
+- Хэш таблицы
+- Map 
+
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+### 9. Что такое Git
+Распределённая система управления версиями
+
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+### 10. Как создать гит репозиторий локально
+`git init`
+
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
