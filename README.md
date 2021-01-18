@@ -3,23 +3,23 @@
 - [1. Виды типизации](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#1-виды-типизации)
 - [2. Типизация python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#3-что-такое-переменная)
 - [3. Что такое переменная](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#3-что-такое-переменная)
-4. Числа в python
-5. Строки в python
-6. Списки и кортежи в python
-7. Словарь в python
-8. Какие типы данных относятся к структурам данных
-9. Что такое Git
-10. Как создать Git репозиторий локально
-11. Что такое git push
-12. Что делает git commit
-13. Git merge и rebase
-14. Что такое виртуальное окружение
-15. Как установить виртуальное окружение
-16. Виды форматирования строк
-17. Cрезы или слайсы в python
-18. Что такое итерация
-19. Какие циклы есть в python
-20. Чем отличается while от for
+- [4. Числа в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#4-числа-в-python)
+- [5. Строки в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#5-строки-в-python)
+- [6. Списки и кортежи в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#5-строки-в-python)
+- [7. Словарь в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#7-cловарь-в-python)
+- [8. Какие типы данных относятся к структурам данных](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#8-какие-типы-данных-относятся-к-структурам-данных)
+- [9. Что такое Git](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#9-что-такое-git)
+- [10. Как создать Git репозиторий локально](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#10-как-создать-гит-репозиторий-локально)
+- [11. Что такое git push](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#11-что-такое-git-push)
+- [12. Что делает git commit](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#12-что-делает-git-commit)
+- [13. Git merge и rebase](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#13-git-merge-и-rebase)
+- [14. Что такое виртуальное окружение](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#14-что-такое-виртуальное-окружение)
+- [15. Как установить виртуальное окружение](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#15-как-установить-виртуальное-окружение)
+- [16. Виды форматирования строк](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#16-виды-форматирования-строк)
+- [17. Cрезы или слайсы в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#17-cрезы-или-слайсы-в-python)
+- [18. Что такое итерация](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#18-что-такое-итерация)
+- [19. Какие циклы есть в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#19-какие-циклы-есть-в-python)
+- [20. Чем отличается while от for](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#20-чем-отличается-while-от-for)
 21. Каким образом реализовано ветвление в python
 22. Как запросить у пользовптеля ввод
 23. Преобразование типов
