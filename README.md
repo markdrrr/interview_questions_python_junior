@@ -527,3 +527,6 @@ Views отвечают за обработку и передачу данных 
 Подробнее https://developer.mozilla.org/ru/docs/Web/HTTP/Status
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+
+### 85. Что такое Django Middleware
+Django Middleware (middleware в переводе "промежуточный слой") – это промежуточный слой между запросом (request) и ответом (response). В Django по умолчанию содержатся наиболее важные и нужные middleware. Например, AuthenticationMiddleware, ассоциирует пользователей с запросами с помощью сессий. Можно написать свой middleware: например хорошим вариантом может быть middleware для отлавливания и логгирования всех тех исключений которые не были отловлены на более низких уровнях.
