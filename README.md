@@ -86,7 +86,7 @@
 - [84. Как производится отладка программы на Python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#84-как-производится-отладка-программы-на-python)
 - [85. Что такое GIL](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#85-что-такое-gil)
 - [86. Статусы ответов HTTP](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#86-статусы-ответов-http)
-- [85. Что такое GIL](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#85-что-такое-gil)
+- [87. Что такое Django Middleware](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#87-что-такое-django-middleware)
 
 #### Еще 300+ вопросов для подготовки к собеседованию 
 [150 вопросов для собеседования на вакансию Python. Часть 1 (без опыта работы)](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta)
