@@ -25,7 +25,7 @@
 - [23. Преобразование типов](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#23-преобразование-типов)
 - [24. Что такое аннотация типов](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#24-что-такое-аннотация-типов)
 - [25. Строка это последовательность или нет](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#25-строка-это-последовательность-или-нет)
-- [26. Что такое Pep](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#26-что-такое-pep)
+- [26. Что такое PEP8](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#26-что-такое-pep)
 - [27. Что такое фунция range](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#27-что-такое-фунция-range)
 - [28. Что делает enumerate](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#28-что-делает-enumerate)
 - [29. Какие методы списков](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#29-какие-методы-списков)
