@@ -20,72 +20,72 @@
 - [18. Что такое итерация](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#18-что-такое-итерация)
 - [19. Какие циклы есть в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#19-какие-циклы-есть-в-python)
 - [20. Чем отличается while от for](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#20-чем-отличается-while-от-for)
-21. Каким образом реализовано ветвление в python
-22. Как запросить у пользовптеля ввод
-23. Преобразование типов
-24. Что такое аннотация типов
-25. Строка это последовательность или нет
-26. Что такое Pep
-27. Что такое фунция range
-28. Что делает enumerate
-29. Какие методы списков
-30. Что в python не является объектом
-31. Название переменных
-32. Что такое литералы 
-33. Можно ли число сделать строкой
-34. Что делает метод split() 
-35. Что делает метод join() 
-36. Как импортировать модуль
-37. Как импортировать все содержимое модуля
-38. Сколько пар ключ значение может быть в словаре
-39. Какой тип данных может быть значением в словаре
-40. Как узнать id элемента
-41. Как узнать версию python
-42. Отличия второго python от 3
-43. Как прервать выполнение цикла
-44. Что означает continue
-45. Что будет если сравнить 5 и 5.0
-46. Что быстрее python или c++
-47. Что такое байт код
-48. Как избежать конфликтов при импорте файлов
-49. Что означает %s %d
-50. Что такое класс
-51. Что такое наследование
-52. Что такое инкапсуляция
-53. Что такое полиморфизм
-54. Сколько может быть родителей и наследников у класса
-55. Что такое перегрузка операторов
-56. Магические методы
-57. Модификаторы доступа
-58. Генераторы
-59. Как пишутся комментарии в питоне
-60. Как можно обратить (reverse) порядок элементов в списке
-61. Если мы не поставим двоеточие в конце строки для цикла "do-while", он все равно сработает?
-62. Как убрать из списка дубликат элемента
-63. Расскажите про арифметические операторы //, %, и **
-64. Как посчитать длину строки (string)
-65. Расскажите про генераторы списков (list comprehension)
-66. Что такое HTTP
-67. Что такое json, xml
-68. Чем отличается HTML и XML
-69. Что такое CRUD
-70. Какой паттерн программирования реализует Django
-71. На каком этапе в приложении Django происходит запрос к базе данных
-72. Какой результат будет Post.objects.all() и какого типа вернет
-73. Что такое SQL
-74. Каким запросом я могу достать все данные из таблицы
-75, Что такое многие-ко-многим
-76. Как реализуется М2М в SQL
-77. Что такое JOIN и какой он может быть
-78. Что такое View
-79. Что такое миксины
-80. Звёздный синтаксис
-81. Два способа создания класса
-82. Чем файл .pyc отличается от .py
-83. Что делает python объектно-ориентированым
-84. Как производится отладка программы на Python
-85. Что такое GIL
-86. Статусы ответов HTTP
+- [21. Каким образом реализовано ветвление в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#21-каким-образом-реализовано-ветвление-в-python)
+- [22. Как запросить у пользовптеля ввод](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#22-как-запросить-у-пользователя-ввод)
+- [23. Преобразование типов](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#23-преобразование-типов)
+- [24. Что такое аннотация типов](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#24-что-такое-аннотация-типов)
+- [25. Строка это последовательность или нет](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#25-строка-это-последовательность-или-нет)
+- [26. Что такое Pep](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#26-что-такое-pep)
+- [27. Что такое фунция range](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#27-что-такое-фунция-range)
+- [28. Что делает enumerate](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#28-что-делает-enumerate)
+- [29. Какие методы списков](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#29-какие-методы-списков)
+- [30. Что в python не является объектом](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#30-что-в-python-не-является-объектом)
+- [31. Название переменных](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#31-название-переменных)
+- [32. Что такое литералы ](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#32-что-такое-литералы)
+- [33. Можно ли число сделать строкой](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#33-можно-ли-число-сделать-строкой)
+- [34. Что делает метод split() ](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#34-что-делает-метод-split)
+- [35. Что делает метод join()](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#35-что-делает-метод-join)
+- [36. Как импортировать модуль](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#36-как-импортировать-модуль)
+- [37. Как импортировать все содержимое модуля](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#37-как-импортировать-все-содержимое-модуля)
+- [38. Сколько пар ключ значение может быть в словаре](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#38-сколько-пар-ключ-значение-может-быть-в-словаре)
+- [39. Какой тип данных может быть значением в словаре](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#39-какой-тип-данных-может-быть-значением-в-словаре)
+- [40. Как узнать id элемента](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#40-как-узнать-id-элемента)
+- [41. Как узнать версию python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#41-как-узнать-версию-python)
+- [42. Отличия второго python от 3](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#42-отличия-второго-python-от-3)
+- [43. Как прервать выполнение цикла](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#43-как-прервать-выполнение-цикла)
+- [44. Что означает continue](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#44-что-означает-continue)
+- [45. Что будет если сравнить 5 и 5.0](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#45-что-будет-если-сравнить-5-и-50)
+- [46. Что быстрее python или c++](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#46-что-быстрее-python-или-c)
+- [47. Что такое байт код](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#47-что-такое-байт-код)
+- [48. Как избежать конфликтов при импорте файлов](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#48-как-избежать-конфликтов-при-импорте-файлов)
+- [49. Что означает %s %d](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#49-что-означает-s-d)
+- [50. Что такое класс](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#50-что-такое-класс)
+- [51. Что такое наследование](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#51-что-такое-наследование)
+- [52. Что такое инкапсуляция](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#52-что-такое-инкапсуляция)
+- [53. Что такое полиморфизм](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#53-что-такое-полиморфизм)
+- [54. Сколько может быть родителей и наследников у класса](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#54-сколько-может-быть-родителей-и-наследников-у-класса)
+- [55. Что такое перегрузка операторов](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#55-что-такое-перегрузка-операторов)
+- [56. Магические методы](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#56-магические-методы)
+- [57. Модификаторы доступа](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#57-модификаторы-доступа)
+- [58. Генераторы](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#58-генераторы)
+- [59. Как пишутся комментарии в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#59-как-пишутся-комментарии-в-python)
+- [60. Как можно обратить (reverse) порядок элементов в списке](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#60-как-можно-обратить-reverse-порядок-элементов-в-списке)
+- [61. Если мы не поставим двоеточие в конце строки для цикла "do-while", он все равно сработает?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#61-если-мы-не-поставим-двоеточие-в-конце-строки-для-цикла-do-while-он-все-равно-сработает)
+- [62. Как убрать из списка дубликат элемента](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#62-как-убрать-из-списка-дубликат-элемента)
+- [63. Расскажите про арифметические операторы //, %, и **](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#63-расскажите-про-арифметические-операторы---и-)
+- [64. Как посчитать длину строки (string)](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#64-как-посчитать-длину-строки-string)
+- [65. Расскажите про генераторы списков (list comprehension)](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#65-расскажите-про-генераторы-списков-list-comprehension)
+- [66. Что такое HTTP](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#66-что-такое-http)
+- [67. Что такое json, xml](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#67-что-такое-json-xml)
+- [68. Чем отличается HTML и XML](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#68-чем-отличается-html-и-xml)
+- [69. Что такое CRUD](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#69-что-такое-crud)
+- [70. Какой паттерн программирования реализует Django](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#70-какой-паттерн-программирования-реализует-django)
+- [71. На каком этапе в приложении Django происходит запрос к базе данных](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#71-на-каком-этапе-в-приложении-django-происходит-запрос-к-базе-данных)
+- [72. Какой результат будет Post.objects.all() и какого типа вернет](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#72-какой-результат-будет-postobjectsall-и-какого-типа-вернет)
+- [73. Что такое SQL](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#73-что-такое-sql)
+- [74. Каким запросом я могу достать все данные из таблицы](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#74-каким-запросом-я-могу-достать-все-данные-из-таблицы)
+- [75, Что такое многие-ко-многим](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#75-что-такое-многие-ко-многим)
+- [76. Как реализуется М2М в SQL](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#76-как-реализуется-м2м-в-sql)
+- [77. Что такое JOIN и какой он может быть](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#77-что-такое-join-и-какой-он-может-быть)
+- [78. Что такое View](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#78-что-такое-view)
+- [79. Что такое миксины](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#79-что-такое-миксины)
+- [80. Звёздный синтаксис](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#80-звёздный-синтаксис)
+- [81. Два способа создания класса](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#81-два-способа-создания-класса)
+- [82. Чем файл .pyc отличается от .py](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#82-чем-файл-pyc-отличается-от-py)
+- [83. Что делает python объектно-ориентированым](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#83-что-делает-python-объектно-ориентированым)
+- [84. Как производится отладка программы на Python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#84-как-производится-отладка-программы-на-python)
+- [85. Что такое GIL](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#85-что-такое-gil)
+- [86. Статусы ответов HTTP](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#86-статусы-ответов-http)
 
 
 ### 1. Виды типизации
