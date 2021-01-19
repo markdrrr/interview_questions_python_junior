@@ -86,6 +86,7 @@
 - [84. Как производится отладка программы на Python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#84-как-производится-отладка-программы-на-python)
 - [85. Что такое GIL](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#85-что-такое-gil)
 - [86. Статусы ответов HTTP](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#86-статусы-ответов-http)
+- [87. Что такое Django Middleware](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#87-что-такое-django-middleware)
 
 #### Еще 300+ вопросов для подготовки к собеседованию 
 [150 вопросов для собеседования на вакансию Python. Часть 1 (без опыта работы)](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta)
@@ -525,5 +526,10 @@ Views отвечают за обработку и передачу данных 
 5.	Серверные ошибки 500 – 599
 
 Подробнее https://developer.mozilla.org/ru/docs/Web/HTTP/Status
+
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+
+### 87. Что такое Django Middleware
+Django Middleware (middleware в переводе "промежуточный слой") – это промежуточный слой между запросом (request) и ответом (response). В Django по умолчанию содержатся наиболее важные и нужные middleware. Например, AuthenticationMiddleware, ассоциирует пользователей с запросами с помощью сессий. Можно написать свой middleware: например хорошим вариантом может быть middleware для отлавливания и логгирования всех тех исключений которые не были отловлены на более низких уровнях.
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
