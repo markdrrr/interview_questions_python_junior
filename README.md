@@ -658,3 +658,8 @@ Django Middleware (middleware в переводе "промежуточный с
 Использовать оператор `return` или `yield`
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+
+### 90. Что если в функции не будет `return`, будет ли она что-то возвращать?
+Функция может и не заканчиваться инструкцией `return`, при этом функция вернет значение `None`
+
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
