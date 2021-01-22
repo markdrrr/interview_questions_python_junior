@@ -653,3 +653,8 @@ Django Middleware (middleware в переводе "промежуточный с
 [1, 2, 3, 4]
 ```
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+
+### 89. Что нужно сделать, чтобы функция возвращала значение?
+Использовать оператор `return` или `yield`
+
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
