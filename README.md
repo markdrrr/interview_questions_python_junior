@@ -87,12 +87,12 @@
 - [85. Что такое GIL](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#85-что-такое-gil)
 - [86. Статусы ответов HTTP](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#86-статусы-ответов-http)
 - [87. Что такое Django Middleware](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#87-что-такое-django-middleware)
-- [88.Как вставить объект чтобы он оказался под определенным индексом?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#88)
+- [88.Как вставить объект чтобы он оказался под определенным индексом?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#88-как-вставить-объект-чтобы-он-оказался-под-определенным-индексом)
 - [89.Что нужно сделать, чтобы функция возвращала значение?
-Использовать оператор return или yield](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#89)
-- [90. Что если в функции не будет return, будет ли она что-то возвращать?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#90)
-- [91. Напишите в одну строку как можно получить самую позднюю по коду букву в строке](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#91)
-- [92. Как конвертировать список в строку?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#92)
+Использовать оператор return или yield](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#89-что-нужно-сделать-чтобы-функция-возвращала-значение)
+- [90. Что если в функции не будет return, будет ли она что-то возвращать?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#90-что-если-в-функции-не-будет-return-будет-ли-она-что-то-возвращать)
+- [91. Напишите в одну строку как можно получить самую позднюю по коду букву в строке](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#91-напишите-в-одну-строку-как-можно-получить-самую-позднюю-по-коду-букву-в-строке)
+- [92. Как конвертировать список в строку?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#92-как-конвертировать-список-в-строку)
 
 #### Еще 300+ вопросов для подготовки к собеседованию 
 [150 вопросов для собеседования на вакансию Python. Часть 1 (без опыта работы)](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta)
