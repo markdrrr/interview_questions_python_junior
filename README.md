@@ -87,6 +87,12 @@
 - [85. Что такое GIL](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#85-что-такое-gil)
 - [86. Статусы ответов HTTP](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#86-статусы-ответов-http)
 - [87. Что такое Django Middleware](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#87-что-такое-django-middleware)
+- [88.Как вставить объект чтобы он оказался под определенным индексом?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#88)
+- [89.Что нужно сделать, чтобы функция возвращала значение?
+Использовать оператор return или yield](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#89)
+- [90. Что если в функции не будет return, будет ли она что-то возвращать?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#90)
+- [91. Напишите в одну строку как можно получить самую позднюю по коду букву в строке](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#91)
+- [92. Как конвертировать список в строку?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#92)
 
 #### Еще 300+ вопросов для подготовки к собеседованию 
 [150 вопросов для собеседования на вакансию Python. Часть 1 (без опыта работы)](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta)
@@ -674,6 +680,8 @@ Django Middleware (middleware в переводе "промежуточный с
 'w'
 ```
 
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+
 
 ### 92. Как конвертировать список в строку?
 
@@ -700,4 +708,5 @@ Django Middleware (middleware в переводе "промежуточный с
 >>> "".join(map(str, a))
 '123'
 ```
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 
