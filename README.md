@@ -98,8 +98,11 @@
 [150 вопросов для собеседования на вакансию Python. Часть 1 (без опыта работы)](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta)
 
 [150 вопросов для собеседования на вакансию Python. Часть 2 (с опытом работы)](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-s-opytom-raboty)
+
 [50+ ответов на вопросовы с собеседований по Python](https://mcs.mail.ru/blog/spisok-voprosov-s-sobesedovaniy-python-dlya-data-sayentistov)
+
 [80 практических вопросов по Python для собеседования](https://yandex.ru/turbo/nuancesprog.ru/s/p/11460/)
+
 [Разные задачи на Python и решение к ним](https://smartiqa.ru/courses/python/answer-key)
 ____
 ### 1. Виды типизации
