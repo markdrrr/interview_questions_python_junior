@@ -93,6 +93,9 @@
 - [90. Что если в функции не будет return, будет ли она что-то возвращать?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#90-что-если-в-функции-не-будет-return-будет-ли-она-что-то-возвращать)
 - [91. Напишите в одну строку как можно получить самую позднюю по коду букву в строке](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#91-напишите-в-одну-строку-как-можно-получить-самую-позднюю-по-коду-букву-в-строке)
 - [92. Как конвертировать список в строку?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#92-как-конвертировать-список-в-строку)
+- [93. Принципы SOLID](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#93-принципы-solid)
+
+
 
 #### Еще 300+ вопросов для подготовки к собеседованию 
 [150 вопросов для собеседования на вакансию Python. Часть 1 (без опыта работы)](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta)
@@ -715,4 +718,24 @@ Django Middleware (middleware в переводе "промежуточный с
 '123'
 ```
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+
+
+### 93. Принципы SOLID
+
+S – Single Responsibility (Принцип единственной ответственности)
+```Каждый класс должен отвечать только за одну операцию.```
+
+O — Open-Closed (Принцип открытости-закрытости)
+```Классы должны  быть  открыты для расширения, но закрыты для модификации.`
+
+L — Liskov Substitution (Принцип подстановки Барбары Лисков)
+`Если П является подтипом Т, то любые объекты типа Т, присутствующие в программе, могут заменяться объектами типа П без негативных последствий для функциональности программы.```
+
+I — Interface Segregation (Принцип разделения интерфейсов)
+````Не следует ставить клиент в зависимость от методов, которые он не использует.```
+
+D — Dependency Inversion (Принцип инверсии зависимостей)
+```Модули верхнего уровня не должны зависеть от модулей нижнего уровня. И те, и другие должны зависеть от абстракций. Абстракции не должны зависеть от деталей. Детали должны зависеть от абстракций.```
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+
 
