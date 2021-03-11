@@ -94,7 +94,7 @@
 - [91. Напишите в одну строку как можно получить самую позднюю по коду букву в строке](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#91-напишите-в-одну-строку-как-можно-получить-самую-позднюю-по-коду-букву-в-строке)
 - [92. Как конвертировать список в строку?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#92-как-конвертировать-список-в-строку)
 - [93. Принципы SOLID](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#93-принципы-solid)
-
+- [94. SQL JOIN](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#94-sql-join)
 
 
 #### Еще 300+ вопросов для подготовки к собеседованию 
@@ -745,3 +745,21 @@ D — Dependency Inversion (Принцип инверсии зависимост
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 
 
+### 94. SQL JOIN
+
+```
+INNER	JOIN		Возвращает записи которые имеют соответствие в обеих таблицах
+```
+
+```
+OUTER	LEFT JOIN	Возвращает все записи из левой таблицы + записи которые имеют соответствие из правой
+```
+
+```
+OUTER	RIGHT JOIN	Возвращает все записи из правой таблицы + записи которые имеют соответствие из левой
+```
+
+```
+OUTER	FULL JOIN	Возвращает все записи из обеих таблиц
+```
+[к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
