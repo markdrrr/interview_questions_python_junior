@@ -95,8 +95,10 @@
 - [92. Как конвертировать список в строку?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#92-как-конвертировать-список-в-строку)
 - [93. Принципы SOLID](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#93-принципы-solid)
 - [94. SQL JOIN](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#94-sql-join)
-- [95. SQL оператор HAVING](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#94-оператор-having)
-
+- [95. SQL оператор HAVING](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#95-sql-оператор-having)
+- [96. Метаклассы в Python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#96-метаклассы-в-python)
+- [97. Множественное наследование](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#97-множественное-наследование)
+- [98. Компоненты django](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#98-компоненты-django)
 
 #### Еще 300+ вопросов для подготовки к собеседованию 
 [150 вопросов для собеседования на вакансию Python. Часть 1 (без опыта работы)](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta)
@@ -815,6 +817,6 @@ c1.f_func2()              # Выведет: Метод f_func2() класса Cl
 c1.f_func3()              # Выведет: Метод f_func3() класса Class3
 c1.f_func4()              # Выведет: Метод f_func4() класса Class4
 ```
-### 98. компоненты django
+### 98. Компоненты django
 
 ![image](https://user-images.githubusercontent.com/56235826/110922871-4b9abb80-8331-11eb-9554-c0f6058e9156.png)
