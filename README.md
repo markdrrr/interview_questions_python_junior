@@ -95,6 +95,7 @@
 - [92. Как конвертировать список в строку?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#92-как-конвертировать-список-в-строку)
 - [93. Принципы SOLID](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#93-принципы-solid)
 - [94. SQL JOIN](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#94-sql-join)
+- [95. SQL оператор HAVING](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#94-оператор-having)
 
 
 #### Еще 300+ вопросов для подготовки к собеседованию 
@@ -763,3 +764,57 @@ OUTER	RIGHT JOIN	Возвращает все записи из правой та
 OUTER	FULL JOIN	Возвращает все записи из обеих таблиц
 ```
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
+
+### 95. SQL оператор HAVING
+SQL оператор HAVING используется в сочетании с оператором GROUP BY, чтобы ограничить группы возвращаемых строк только теми, чьё условие TRUE.
+
+
+### 96. Метаклассы в Python
+Метакласс это «штука», которая создаёт классы.
+
+Мы создаём класс для того, чтобы создавать объекты, так? А классы являются объектами. Метакласс это то, что создаёт эти самые объекты. Они являются классами классов, можно представить это себе следующим образом:
+```
+  MyClass = MetaClass()
+  MyObject = MyClass()
+```
+Мы уже видели, что type позволяет делать что-то в таком духе:
+
+
+  `MyClass = type('MyClass', (), {})`
+
+Это потому что функция type на самом деле является метаклассом. type это метакласс, который Питон внутренне использует для создания всех классов.
+
+### 97. Множественное наследование
+
+```
+class Class1:         # Базовый класс для класса Class2
+    def f_func1(self):
+        print "Метод f_func1() класса Class1"
+ 
+class Class2(Class1): # Класс Class2 наследует класс Class1
+    def f_func2(self):
+        print "Метод f_func2() класса Class2"
+ 
+class Class3(Class1): # Класс Class3 наследует класс Class1
+    def f_func1(self):
+        print "Метод f_func1() класса Class3"
+    def f_func2(self):
+        print "Метод f_func2() класса Class3"
+    def f_func3(self):
+        print "Метод f_func3() класса Class3"
+    def f_func4(self):
+        print "Метод f_func4() класса Class3"
+ 
+class Class4(Class2, Class3): # Множественное наследование
+    def f_func4(self):
+        print "Метод f_func4() класса Class4"
+ 
+c1 = Class4()             # Создаем экземпляр класса Class4
+c1.f_func1()              # Выведет: Метод f_func1() класса Class1
+c1.f_func2()              # Выведет: Метод f_func2() класса Class2
+c1.f_func3()              # Выведет: Метод f_func3() класса Class3
+c1.f_func4()              # Выведет: Метод f_func4() класса Class4
+```
+### 98. компоненты django
+
+![image](https://user-images.githubusercontent.com/56235826/110922871-4b9abb80-8331-11eb-9554-c0f6058e9156.png)
