@@ -271,7 +271,7 @@ item[START:STOP:STEP]
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 ### 18. Что такое итерация
-Переход к следующему объекту в коллекции, например список, кортеж и т.д. Сам по себе объект коллекции должен быть itarable.
+Переход к следующему объекту в коллекции, например список, кортеж и т.д. Сам по себе объект коллекции должен быть iterable.
 
 [к оглавлению ⬆️](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#вопросы-для-собеседования-python-junior)
 ### 19. Какие циклы есть в python
