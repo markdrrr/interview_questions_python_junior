@@ -1,6 +1,6 @@
 # Вопросы для собеседования Python Junior
 
-- [1. Виды типизации](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#1-виды-типизации)
+- [1. Виды типизации](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#1-виды-типизации)[J]
 - [2. Типизация python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#3-что-такое-переменная)
 - [3. Что такое переменная](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#3-что-такое-переменная)
 - [4. Числа в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#4-числа-в-python)
